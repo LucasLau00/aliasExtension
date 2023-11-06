@@ -1,7 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Stadium Goods Data Fetcher",
+    "name": "alias Data Fetcher",
     "version": "1.1",
+    "author": "novaaa8888 / PatFDev(Other Version Creator)",
     "permissions": ["storage", "activeTab", "scripting"],
     "action": {
       "default_popup": "popup.html"
@@ -10,7 +11,14 @@
       "service_worker": "background.js"
     },
     "host_permissions": [
-      "https://sellers.stadiumgoods.com/*"
-    ]
+      "https://sell-api.goat.com/*"
+    ],
+    "icons":
+    {
+    "16":"alias.png",
+    "32":"alias.png",
+    "48":"alias.png",
+    "128":"alias.png"
+    }
   }
   
