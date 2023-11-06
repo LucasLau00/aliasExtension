@@ -1,11 +1,7 @@
-# StadiumGoods Last Sale Info Chrome Extension
+# alias SKU Prices Info Chrome Extension
 
-This Chrome extension is designed to enhance the user experience of selling on [StadiumGoods.com](https://www.stadiumgoods.com/) by displaying the last sale date and last sale price of products—information that is not typically visible on the website. This can provide valuable insights for users looking to understand market trends and product value over time.
+This Chrome extension is designed to enhance the user experience of selling on alias APP by displaying the Sizes on the app, the Asks, Bids and Last Sold Pricing for users to check. These data can be directly gotten from the mobile APP but this helps the users to save time as they can skip the step of opening thier mobile phone/emulator to check for prices.
 
-## Features
-
-- **Last Sale Date**: Quickly view when the last transaction occurred for a particular product.
-- **Last Sale Price**: Understand the most recent sale price to gauge the product's current market value.
 
 ## Installation
 
@@ -15,7 +11,7 @@ To install this extension manually from the source files, follow these steps:
    Open a terminal or command prompt and run the following git command:
 
    ```sh
-   git clone https://github.com/PatFDev/StadiumGoodsExtension.git
+   git clone https://github.com/LucasLau00/aliasExtension.git
    ```
 
    Alternatively, if you are not using git, you can download the source code directly from GitHub as a ZIP file and unpack it on your computer.
