@@ -40,4 +40,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support
 
-If you need assistance or have any questions, feel free to DM me on Discord (@631)
+If you need assistance or have any questions, feel free to DM me on Discord (@novaaa8888)
+First time creating a chrome extension feel free to improve it and use it.
